@@ -1,0 +1,57 @@
+body{
+  background-color:antiquewhite; 
+}
+
+   input[type="button"]{
+    width: 130px;
+     border-radius: 30px;
+     font-size: 20px;
+     height:10vh;
+     background-color: lightsteelblue;
+   }
+   
+   #tbl{
+     background-color: maroon;
+   }
+   #titel{
+     width: 150px;
+     height: 13vh;
+     background-color: rgba(255, 99, 71, 0.178);
+     font-weight: bolder;
+     font-size: 80px;
+   }
+
+   input[type="text"]{
+     width: 550px;
+     border-radius: 50px;
+     font-size: 50px;
+     height: 10vh;
+     background-color: rgba(245, 245, 245, 0.459);
+   }
+   
+   td:hover{
+     background-color:red;
+   }
+
+   #cllr{
+    width: 250px;
+    border-radius: 50px;
+    font-size: 25px;
+    height: 7vh;
+    background-color: lightsteelblue;
+    font-weight: bold;
+   }
+
+   #sqrt{
+    width: 250px;
+    border-radius: 50px;
+    font-size: 25px;
+    height: 7vh;
+    background-color: lightsteelblue;
+    font-weight: bold;
+   }
+   
+   input[type="button"]:active
+   {  
+   font-size: 15px;
+   }
